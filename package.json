@@ -18,8 +18,8 @@
     "prepare": "tsdx build",
     "size": "size-limit",
     "analyze": "size-limit --why",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -35,27 +35,31 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "faito",
+  "name": "ikouka",
   "author": "Joss Doebler",
-  "module": "dist/faito.esm.js",
+  "module": "dist/ikouka.esm.js",
   "size-limit": [
     {
-      "path": "dist/faito.cjs.production.min.js",
+      "path": "dist/ikouka.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/faito.esm.js",
+      "path": "dist/ikouka.esm.js",
       "limit": "10 KB"
     }
   ],
   "devDependencies": {
     "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "@babel/preset-typescript": "^7.22.5",
     "@size-limit/preset-small-lib": "^8.2.6",
     "@storybook/addon-essentials": "^7.0.23",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-links": "^7.0.23",
     "@storybook/addons": "^7.0.23",
     "@storybook/react": "^7.0.23",
+    "@storybook/react-webpack5": "^7.0.23",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "babel-loader": "^9.1.2",
@@ -64,6 +68,7 @@
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "size-limit": "^8.2.6",
+    "storybook": "^7.0.23",
     "tsdx": "^0.14.1",
     "tslib": "^2.5.3",
     "typescript": "^3.9.10"
