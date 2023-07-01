@@ -1,27 +1,27 @@
-import { Button } from './index';
+import { Button } from './index'
 
 export default {
   title: 'Button',
-  component: Button,
-};
+  component: Button
+}
 
 export const Primary = {
   args: {
     children: 'Click Me',
-    variant: 'primary',
-  },
-};
+    variant: 'primary'
+  }
+}
 
 export const Secondary = {
   args: {
     children: 'Click Me',
-    variant: 'secondary',
-  },
-};
+    variant: 'secondary'
+  }
+}
 
 export const Text = {
   args: {
     children: 'Click Me',
-    variant: 'text',
-  },
-};
+    variant: 'text'
+  }
+}
