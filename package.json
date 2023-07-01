@@ -68,6 +68,7 @@
     "babel-loader": "^9.1.2",
     "husky": "^8.0.3",
     "postcss": "^8.4.24",
+    "prettier": "2.8.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
