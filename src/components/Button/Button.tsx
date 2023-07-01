@@ -18,7 +18,7 @@ export const Button: FC<ButtonProps> = ({
   ...rest
 }) => {
   const css = cn({
-    'px-4 py-2 rounded': true,
+    'px-4 py-2 rounded-lg': true,
     [className || '']: true,
     'bg-blue-100 text-blue-600 hover:bg-blue-200': variant === 'primary',
     'bg-gray-100 text-gray-600 hover:bg-gray-200': variant === 'secondary',
