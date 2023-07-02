@@ -1,7 +1,7 @@
 import 'react-app-polyfill/ie11'
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import { Badge, Button } from 'ikouka'
+import { Badge, Button, Stack } from 'ikouka'
 import 'ikouka/dist/tailwind.css'
 
 const App = () => {
@@ -9,8 +9,10 @@ const App = () => {
     <div
       style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
     >
-      <Badge color="purple">Badge</Badge>
-      <Button size="sm">Click me</Button>
+      <Stack>
+        <Badge color="purple">Badge</Badge>
+        <Button size="sm">Click me</Button>
+      </Stack>
     </div>
   )
 }
