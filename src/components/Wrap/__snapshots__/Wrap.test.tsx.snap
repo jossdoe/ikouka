@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wrap - lg 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-6 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Wrap - md 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-4 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Wrap - sm 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-2 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Wrap - undefined 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-4 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Wrap - xl 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-10 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Wrap - xs 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-wrap gap-0.5 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
