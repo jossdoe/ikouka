@@ -18,34 +18,34 @@ const render = (args: {}) => (
 export const ExtraSmall: StoryObj = {
   render,
   args: {
-    size: 'xs'
+    space: 'xs'
   }
 }
 
 export const Small: StoryObj = {
   render,
   args: {
-    size: 'sm'
+    space: 'sm'
   }
 }
 
 export const Medium: StoryObj = {
   render,
   args: {
-    size: 'md'
+    space: 'md'
   }
 }
 
 export const Large: StoryObj = {
   render,
   args: {
-    size: 'lg'
+    space: 'lg'
   }
 }
 
 export const ExtraLarge: StoryObj = {
   render,
   args: {
-    size: 'xl'
+    space: 'xl'
   }
 }

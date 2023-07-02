@@ -2,12 +2,12 @@ import React from 'react'
 import { render, screen } from '../../utils/testing'
 import { Stack, StackProps } from './index'
 
-const SIZES: StackProps['size'][] = ['xs', 'sm', 'md', 'lg', 'xl', undefined]
+const SPACES: StackProps['space'][] = ['xs', 'sm', 'md', 'lg', 'xl', undefined]
 
-SIZES.forEach((size) => {
-  test(`Stack - ${size}`, () => {
+SPACES.forEach((space) => {
+  test(`Stack - ${space}`, () => {
     const { asFragment } = render(
-      <Stack size={size}>
+      <Stack space={space}>
         <button />
         <button />
         <button />

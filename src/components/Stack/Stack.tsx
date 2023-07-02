@@ -3,7 +3,7 @@ import cn from 'classnames'
 
 export type StackProps = {
   children: ReactNode
-  size?: 'xs' | 'sm' | 'md' | 'lg' | 'xl'
+  space?: 'xs' | 'sm' | 'md' | 'lg' | 'xl'
 } & HTMLAttributes<HTMLDivElement>
 
 /**
@@ -12,15 +12,15 @@ export type StackProps = {
 export const Stack: FC<StackProps> = ({
   children,
   className,
-  size = 'md',
+  space = 'md',
   ...rest
 }) => {
   const css = cn({
-    'space-y-1': size === 'xs',
-    'space-y-2': size === 'sm',
-    'space-y-4': size === 'md',
-    'space-y-6': size === 'lg',
-    'space-y-8': size === 'xl',
+    'space-y-1': space === 'xs',
+    'space-y-2': space === 'sm',
+    'space-y-4': space === 'md',
+    'space-y-6': space === 'lg',
+    'space-y-8': space === 'xl',
     [className || '']: true
   })
 
