@@ -19,11 +19,13 @@ VARIANTS.forEach((variant) => {
     test(`Button (onClick) – ${variant}, ${size}`, async () => {
       const onClick = jest.fn()
 
-      render(
+      const { asFragment } = render(
         <Button variant={variant} size={size} onClick={onClick}>
           {LABEL_TEXT}
         </Button>
       )
+
+      expect(asFragment()).toMatchSnapshot()
 
       expect(screen.getByRole('button')).toHaveTextContent(LABEL_TEXT)
 
@@ -37,11 +39,13 @@ VARIANTS.forEach((variant) => {
 VARIANTS.forEach((variant) => {
   SIZES.forEach((size) => {
     test(`Button (href) – ${variant}, ${size}`, async () => {
-      render(
+      const { asFragment } = render(
         <Button variant={variant} size={size} href="#">
           {LABEL_TEXT}
         </Button>
       )
+
+      expect(asFragment()).toMatchSnapshot()
 
       expect(screen.getByRole('link')).toHaveTextContent(LABEL_TEXT)
       expect(screen.getByRole('link')).toHaveAccessibleName(LABEL_TEXT)

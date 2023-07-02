@@ -20,11 +20,13 @@ COLORS.forEach((color) => {
   VARIANTS.forEach((variant) => {
     SIZES.forEach((size) => {
       test(`Badge – ${color}, ${variant}, ${size}`, async () => {
-        render(
+        const { asFragment } = render(
           <Badge color={color} variant={variant} size={size}>
             {LABEL_TEXT}
           </Badge>
         )
+
+        expect(asFragment()).toMatchSnapshot()
 
         expect(screen.getByText(LABEL_TEXT)).toBeInTheDocument()
       })

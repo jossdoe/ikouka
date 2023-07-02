@@ -1,0 +1,369 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button (href) – primary, lg 1`] = `
+<DocumentFragment>
+  <a
+    class="px-6 py-2.5 text-lg rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – primary, md 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – primary, sm 1`] = `
+<DocumentFragment>
+  <a
+    class="px-3 py-1.5 text-sm rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – primary, undefined 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – secondary, lg 1`] = `
+<DocumentFragment>
+  <a
+    class="px-6 py-2.5 text-lg rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – secondary, md 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – secondary, sm 1`] = `
+<DocumentFragment>
+  <a
+    class="px-3 py-1.5 text-sm rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – secondary, undefined 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – text, lg 1`] = `
+<DocumentFragment>
+  <a
+    class="px-6 py-2.5 text-lg rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – text, md 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – text, sm 1`] = `
+<DocumentFragment>
+  <a
+    class="px-3 py-1.5 text-sm rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – text, undefined 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – undefined, lg 1`] = `
+<DocumentFragment>
+  <a
+    class="px-6 py-2.5 text-lg rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – undefined, md 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – undefined, sm 1`] = `
+<DocumentFragment>
+  <a
+    class="px-3 py-1.5 text-sm rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (href) – undefined, undefined 1`] = `
+<DocumentFragment>
+  <a
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+    href="#"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Click Me
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – primary, lg 1`] = `
+<DocumentFragment>
+  <button
+    class="px-6 py-2.5 text-lg rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – primary, md 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – primary, sm 1`] = `
+<DocumentFragment>
+  <button
+    class="px-3 py-1.5 text-sm rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – primary, undefined 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – secondary, lg 1`] = `
+<DocumentFragment>
+  <button
+    class="px-6 py-2.5 text-lg rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – secondary, md 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – secondary, sm 1`] = `
+<DocumentFragment>
+  <button
+    class="px-3 py-1.5 text-sm rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – secondary, undefined 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – text, lg 1`] = `
+<DocumentFragment>
+  <button
+    class="px-6 py-2.5 text-lg rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – text, md 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – text, sm 1`] = `
+<DocumentFragment>
+  <button
+    class="px-3 py-1.5 text-sm rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – text, undefined 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-transparent text-gray-600 hover:bg-gray-100 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – undefined, lg 1`] = `
+<DocumentFragment>
+  <button
+    class="px-6 py-2.5 text-lg rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – undefined, md 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – undefined, sm 1`] = `
+<DocumentFragment>
+  <button
+    class="px-3 py-1.5 text-sm rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button (onClick) – undefined, undefined 1`] = `
+<DocumentFragment>
+  <button
+    class="px-4 py-2 text-base rounded-lg bg-blue-100 text-blue-600 hover:bg-blue-200 "
+  >
+    Click Me
+  </button>
+</DocumentFragment>
+`;
