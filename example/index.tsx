@@ -6,14 +6,14 @@ import 'ikouka/dist/tailwind.css'
 
 const App = () => {
   return (
-    <div
-      style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
-    >
-      <Stack>
+    <Stack size="sm">
+      <div>
         <Badge color="purple">Badge</Badge>
+      </div>
+      <div>
         <Button size="sm">Click me</Button>
-      </Stack>
-    </div>
+      </div>
+    </Stack>
   )
 }
 
