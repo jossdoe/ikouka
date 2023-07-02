@@ -43,7 +43,7 @@ export const Button: FC<ButtonProps> = ({
     )
 
   return (
-    <button className={css + ''} {...rest}>
+    <button className={css} {...rest}>
       {children}
     </button>
   )

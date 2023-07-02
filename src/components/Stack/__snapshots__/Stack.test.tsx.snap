@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stack - lg 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-6 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Stack - md 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-4 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Stack - sm 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-2 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Stack - undefined 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-4 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Stack - xl 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-8 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Stack - xs 1`] = `
+<DocumentFragment>
+  <div
+    class="space-y-1 "
+  >
+    <button />
+    <button />
+    <button />
+  </div>
+</DocumentFragment>
+`;
