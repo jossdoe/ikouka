@@ -3,7 +3,7 @@
 exports[`Badge – gray, filled, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -13,7 +13,7 @@ exports[`Badge – gray, filled, lg 1`] = `
 exports[`Badge – gray, filled, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -23,7 +23,7 @@ exports[`Badge – gray, filled, md 1`] = `
 exports[`Badge – gray, filled, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -33,7 +33,7 @@ exports[`Badge – gray, filled, undefined 1`] = `
 exports[`Badge – gray, outline, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -43,7 +43,7 @@ exports[`Badge – gray, outline, lg 1`] = `
 exports[`Badge – gray, outline, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -53,7 +53,7 @@ exports[`Badge – gray, outline, md 1`] = `
 exports[`Badge – gray, outline, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -63,7 +63,7 @@ exports[`Badge – gray, outline, undefined 1`] = `
 exports[`Badge – gray, undefined, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -73,7 +73,7 @@ exports[`Badge – gray, undefined, lg 1`] = `
 exports[`Badge – gray, undefined, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -83,7 +83,7 @@ exports[`Badge – gray, undefined, md 1`] = `
 exports[`Badge – gray, undefined, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -93,7 +93,7 @@ exports[`Badge – gray, undefined, undefined 1`] = `
 exports[`Badge – green, filled, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -103,7 +103,7 @@ exports[`Badge – green, filled, lg 1`] = `
 exports[`Badge – green, filled, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -113,7 +113,7 @@ exports[`Badge – green, filled, md 1`] = `
 exports[`Badge – green, filled, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -123,7 +123,7 @@ exports[`Badge – green, filled, undefined 1`] = `
 exports[`Badge – green, outline, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm border border-green-300 bg-transparent text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-green-300 bg-transparent text-green-600 "
   >
     Badge Text
   </span>
@@ -133,7 +133,7 @@ exports[`Badge – green, outline, lg 1`] = `
 exports[`Badge – green, outline, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-green-300 bg-transparent text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-green-300 bg-transparent text-green-600 "
   >
     Badge Text
   </span>
@@ -143,7 +143,7 @@ exports[`Badge – green, outline, md 1`] = `
 exports[`Badge – green, outline, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-green-300 bg-transparent text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-green-300 bg-transparent text-green-600 "
   >
     Badge Text
   </span>
@@ -153,7 +153,7 @@ exports[`Badge – green, outline, undefined 1`] = `
 exports[`Badge – green, undefined, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -163,7 +163,7 @@ exports[`Badge – green, undefined, lg 1`] = `
 exports[`Badge – green, undefined, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -173,7 +173,7 @@ exports[`Badge – green, undefined, md 1`] = `
 exports[`Badge – green, undefined, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-green-100 text-green-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-green-100 text-green-600 "
   >
     Badge Text
   </span>
@@ -183,7 +183,7 @@ exports[`Badge – green, undefined, undefined 1`] = `
 exports[`Badge – purple, filled, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -193,7 +193,7 @@ exports[`Badge – purple, filled, lg 1`] = `
 exports[`Badge – purple, filled, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -203,7 +203,7 @@ exports[`Badge – purple, filled, md 1`] = `
 exports[`Badge – purple, filled, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -213,7 +213,7 @@ exports[`Badge – purple, filled, undefined 1`] = `
 exports[`Badge – purple, outline, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm border border-violet-300 bg-transparent text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-violet-300 bg-transparent text-violet-600 "
   >
     Badge Text
   </span>
@@ -223,7 +223,7 @@ exports[`Badge – purple, outline, lg 1`] = `
 exports[`Badge – purple, outline, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-violet-300 bg-transparent text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-violet-300 bg-transparent text-violet-600 "
   >
     Badge Text
   </span>
@@ -233,7 +233,7 @@ exports[`Badge – purple, outline, md 1`] = `
 exports[`Badge – purple, outline, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-violet-300 bg-transparent text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-violet-300 bg-transparent text-violet-600 "
   >
     Badge Text
   </span>
@@ -243,7 +243,7 @@ exports[`Badge – purple, outline, undefined 1`] = `
 exports[`Badge – purple, undefined, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -253,7 +253,7 @@ exports[`Badge – purple, undefined, lg 1`] = `
 exports[`Badge – purple, undefined, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -263,7 +263,7 @@ exports[`Badge – purple, undefined, md 1`] = `
 exports[`Badge – purple, undefined, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-violet-100 text-violet-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-violet-100 text-violet-600 "
   >
     Badge Text
   </span>
@@ -273,7 +273,7 @@ exports[`Badge – purple, undefined, undefined 1`] = `
 exports[`Badge – red, filled, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -283,7 +283,7 @@ exports[`Badge – red, filled, lg 1`] = `
 exports[`Badge – red, filled, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -293,7 +293,7 @@ exports[`Badge – red, filled, md 1`] = `
 exports[`Badge – red, filled, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -303,7 +303,7 @@ exports[`Badge – red, filled, undefined 1`] = `
 exports[`Badge – red, outline, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm border border-red-300 bg-transparent text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-red-300 bg-transparent text-red-600 "
   >
     Badge Text
   </span>
@@ -313,7 +313,7 @@ exports[`Badge – red, outline, lg 1`] = `
 exports[`Badge – red, outline, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-red-300 bg-transparent text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-red-300 bg-transparent text-red-600 "
   >
     Badge Text
   </span>
@@ -323,7 +323,7 @@ exports[`Badge – red, outline, md 1`] = `
 exports[`Badge – red, outline, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-red-300 bg-transparent text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-red-300 bg-transparent text-red-600 "
   >
     Badge Text
   </span>
@@ -333,7 +333,7 @@ exports[`Badge – red, outline, undefined 1`] = `
 exports[`Badge – red, undefined, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -343,7 +343,7 @@ exports[`Badge – red, undefined, lg 1`] = `
 exports[`Badge – red, undefined, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -353,7 +353,7 @@ exports[`Badge – red, undefined, md 1`] = `
 exports[`Badge – red, undefined, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-red-100 text-red-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-red-100 text-red-600 "
   >
     Badge Text
   </span>
@@ -363,7 +363,7 @@ exports[`Badge – red, undefined, undefined 1`] = `
 exports[`Badge – undefined, filled, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -373,7 +373,7 @@ exports[`Badge – undefined, filled, lg 1`] = `
 exports[`Badge – undefined, filled, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -383,7 +383,7 @@ exports[`Badge – undefined, filled, md 1`] = `
 exports[`Badge – undefined, filled, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -393,7 +393,7 @@ exports[`Badge – undefined, filled, undefined 1`] = `
 exports[`Badge – undefined, outline, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -403,7 +403,7 @@ exports[`Badge – undefined, outline, lg 1`] = `
 exports[`Badge – undefined, outline, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -413,7 +413,7 @@ exports[`Badge – undefined, outline, md 1`] = `
 exports[`Badge – undefined, outline, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs border border-gray-300 bg-transparent text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-gray-300 bg-transparent text-gray-600 "
   >
     Badge Text
   </span>
@@ -423,7 +423,7 @@ exports[`Badge – undefined, outline, undefined 1`] = `
 exports[`Badge – undefined, undefined, lg 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-sm bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-sm border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -433,7 +433,7 @@ exports[`Badge – undefined, undefined, lg 1`] = `
 exports[`Badge – undefined, undefined, md 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
@@ -443,7 +443,7 @@ exports[`Badge – undefined, undefined, md 1`] = `
 exports[`Badge – undefined, undefined, undefined 1`] = `
 <DocumentFragment>
   <span
-    class="uppercase font-semibold py-0.5 px-1.5 rounded text-xs bg-gray-100 text-gray-600 "
+    class="border uppercase font-semibold py-0.5 px-1.5 rounded text-xs border-transparent bg-gray-100 text-gray-600 "
   >
     Badge Text
   </span>
