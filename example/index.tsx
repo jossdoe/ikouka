@@ -1,14 +1,21 @@
 import 'react-app-polyfill/ie11'
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import { Badge, Button, Stack, Wrap } from 'ikouka'
+import { Badge, Button, Stack, Wrap, useBreakpointValues } from 'ikouka'
 import 'ikouka/dist/tailwind.css'
 
 const App = () => {
+  const color = useBreakpointValues({
+    sm: 'purple',
+    md: 'red',
+    lg: 'green',
+    xl: 'gray'
+  })
+
   return (
     <Stack space="lg">
       <div>
-        <Badge color="purple">Badge</Badge>
+        <Badge color={color}>Badge</Badge>
       </div>
       <div>
         <Button size="sm">Click me</Button>
