@@ -1,10 +1,30 @@
 import 'react-app-polyfill/ie11'
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import { Badge, Button, Stack, Wrap, useBreakpointValues } from 'ikouka'
+import {
+  Badge,
+  Button,
+  Stack,
+  TabBar,
+  Wrap,
+  useBreakpointValues,
+  useBreakpoints
+} from 'ikouka'
 import 'ikouka/dist/tailwind.css'
 
 const App = () => {
+  const tabs = ['One', 'Two', 'Three']
+  const [currentTab, setCurrentTab] = React.useState(tabs[0])
+
+  const { active } = useBreakpoints()
+  const direction = active === 'sm' ? 'vertical' : 'horizontal'
+  const size = useBreakpointValues({
+    sm: 'sm',
+    md: 'md',
+    lg: 'lg',
+    xl: 'lg'
+  })
+
   const color = useBreakpointValues({
     sm: 'purple',
     md: 'red',
@@ -14,6 +34,15 @@ const App = () => {
 
   return (
     <Stack space="lg">
+      <div>
+        <TabBar
+          tabs={tabs}
+          current={currentTab}
+          setCurrent={setCurrentTab}
+          direction={direction}
+          size={size}
+        />
+      </div>
       <div>
         <Badge color={color}>Badge</Badge>
       </div>
