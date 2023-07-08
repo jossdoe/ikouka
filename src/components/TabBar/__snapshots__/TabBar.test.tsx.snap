@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabBar – horizontal, lg 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap"
+  >
+    <button
+      class="px-6 py-2.5 text-lg hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-6 py-2.5 text-lg bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-6 py-2.5 text-lg hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabBar – horizontal, md 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap"
+  >
+    <button
+      class="px-4 py-2 text-base hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-4 py-2 text-base bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-4 py-2 text-base hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabBar – horizontal, sm 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap"
+  >
+    <button
+      class="px-3 py-1.5 text-sm hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-3 py-1.5 text-sm bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-3 py-1.5 text-sm hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabBar – vertical, lg 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap flex-col"
+  >
+    <button
+      class="px-6 py-2.5 text-lg hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-6 py-2.5 text-lg bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-6 py-2.5 text-lg hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabBar – vertical, md 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap flex-col"
+  >
+    <button
+      class="px-4 py-2 text-base hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-4 py-2 text-base bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-4 py-2 text-base hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabBar – vertical, sm 1`] = `
+<DocumentFragment>
+  <div
+    class="inline-flex bg-gray-100 text-gray-600 rounded-lg overflow-hidden whitespace-nowrap flex-col"
+  >
+    <button
+      class="px-3 py-1.5 text-sm hover:bg-gray-200"
+    >
+      One
+    </button>
+    <button
+      class="px-3 py-1.5 text-sm bg-blue-100 text-blue-600"
+    >
+      Two
+    </button>
+    <button
+      class="px-3 py-1.5 text-sm hover:bg-gray-200"
+    >
+      Three
+    </button>
+  </div>
+</DocumentFragment>
+`;

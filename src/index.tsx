@@ -1,6 +1,7 @@
 export { Badge, BadgeProps } from './components/Badge'
 export { Button, ButtonProps } from './components/Button'
 export { Stack, StackProps } from './components/Stack'
+export { TabBar, TabBarProps } from './components/TabBar'
 export { Wrap, WrapProps } from './components/Wrap'
 
 export { useBreakpoints } from './hooks/useBreakpoints'
